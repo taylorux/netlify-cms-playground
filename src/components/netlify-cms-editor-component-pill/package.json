@@ -1,0 +1,71 @@
+{
+  "_from": "netlify-cms-editor-component-pill",
+  "_id": "netlify-cms-editor-component-pill@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-IXPwGleKlShhDsvaEmVSMG0ucyvS0o5wawn0Wj0GKDBiUt6sC3hnj8eFPPkRkb8cXDF8cVLGiTwWfsHoEUt1gw==",
+  "_location": "/netlify-cms-editor-component-pill",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "netlify-cms-editor-component-pill",
+    "name": "netlify-cms-editor-component-pill",
+    "escapedName": "netlify-cms-editor-component-pill",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/netlify-cms-editor-component-pill/-/netlify-cms-editor-component-pill-1.1.1.tgz",
+  "_shasum": "e66eb3502f36bed321d173d95ec010690a631518",
+  "_spec": "netlify-cms-editor-component-pill",
+  "_where": "/Users/jackbehar/netlify-cms-playground",
+  "author": {
+    "name": "Aayushi Agrawal aayushi.agrawal13@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/agrawalaayushi/netlify-cms-editor-component-pill/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Pill component for Netlify CMS editor widget",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "homepage": "https://github.com/agrawalaayushi/netlify-cms-editor-component-pill#readme",
+  "keywords": [
+    "netlify",
+    "netlify cms",
+    "cms",
+    "editor component",
+    "netlify cms widget",
+    "pill",
+    "tag",
+    "badge"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "netlify-cms-editor-component-pill",
+  "peerDependencies": {
+    "gatsby-remark-pills": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrawalaayushi/netlify-cms-editor-component-pill.git"
+  },
+  "scripts": {
+    "prepublishOnly": "babel ./src --out-dir ./dist -s inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}

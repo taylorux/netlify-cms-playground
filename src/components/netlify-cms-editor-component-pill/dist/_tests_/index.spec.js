@@ -1,0 +1,9 @@
+// To do: Write test cases
+// Blank/null string
+// Whitespace only
+// All ASCII/ANSI characters 0-255
+// Very long strings
+// Only one character
+// Unicode characters
+"use strict";
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9fdGVzdHNfL2luZGV4LnNwZWMuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBUbyBkbzogV3JpdGUgdGVzdCBjYXNlc1xuLy8gQmxhbmsvbnVsbCBzdHJpbmdcbi8vIFdoaXRlc3BhY2Ugb25seVxuLy8gQWxsIEFTQ0lJL0FOU0kgY2hhcmFjdGVycyAwLTI1NVxuLy8gVmVyeSBsb25nIHN0cmluZ3Ncbi8vIE9ubHkgb25lIGNoYXJhY3RlclxuLy8gVW5pY29kZSBjaGFyYWN0ZXJzXG4iXX0=
